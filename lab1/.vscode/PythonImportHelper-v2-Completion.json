@@ -1,0 +1,1002 @@
+[
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "cgi",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cgi",
+        "description": "cgi",
+        "detail": "cgi",
+        "documentation": {}
+    },
+    {
+        "label": "cgitb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cgitb",
+        "description": "cgitb",
+        "detail": "cgitb",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "ElementTree",
+        "importPath": "xml.etree",
+        "description": "xml.etree",
+        "isExtraImport": true,
+        "detail": "xml.etree",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "Artist",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "Song",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_artist",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_album",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_song",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_artist",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_album",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_song",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_artists",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_albums_by_artist",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_songs_by_album",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_artist_with_albums_and_songs",
+        "importPath": "domain",
+        "description": "domain",
+        "isExtraImport": true,
+        "detail": "domain",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "gcd",
+        "kind": 2,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "def gcd(num, begin_of_range):\n    while begin_of_range != 0:\n        num, begin_of_range = begin_of_range, num % begin_of_range\n    return num\ndef digits(num):\n    return [int(d) for d in str(num)[::-1]]\n# Количество взаимнопростых чисел\ndef count_of_deviders(num):\n    count = 0\n    for i in range(1, num):",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "digits",
+        "kind": 2,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "def digits(num):\n    return [int(d) for d in str(num)[::-1]]\n# Количество взаимнопростых чисел\ndef count_of_deviders(num):\n    count = 0\n    for i in range(1, num):\n        if gcd(num, i) == 1:\n            count += 1\n    return count\n# Сумма цифр, делящихся на 3",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "count_of_deviders",
+        "kind": 2,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "def count_of_deviders(num):\n    count = 0\n    for i in range(1, num):\n        if gcd(num, i) == 1:\n            count += 1\n    return count\n# Сумма цифр, делящихся на 3\ndef sum_of_digits(num):\n    return sum(i for i in digits(num) if i % 3 == 0)\n# Найти делитель, являющийся взаимно простым с цифрами числа",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "sum_of_digits",
+        "kind": 2,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "def sum_of_digits(num):\n    return sum(i for i in digits(num) if i % 3 == 0)\n# Найти делитель, являющийся взаимно простым с цифрами числа\ndef specific_devider(num):\n    num = abs(num)\n    for i in range(2, num):\n        if num % i == 0:\n            count = sum(gcd(i, j) == 1 for j in digits(num))\n            if count == len(digits(num)):\n                return i",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "specific_devider",
+        "kind": 2,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "def specific_devider(num):\n    num = abs(num)\n    for i in range(2, num):\n        if num % i == 0:\n            count = sum(gcd(i, j) == 1 for j in digits(num))\n            if count == len(digits(num)):\n                return i\n    return -1\n# Получение чисел от пользователя\nnum1 = int(input(\"Введите число для подсчета взаимно простых чисел: \"))",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "num1 = int(input(\"Введите число для подсчета взаимно простых чисел: \"))\nnum2 = int(input(\"Введите число для суммы цифр, делящихся на 3: \"))\nnum3 = int(input(\"Введите число для поиска специального делителя: \"))\n# Вывод результатов\nprint(f\"Количество взаимно простых чисел: {count_of_deviders(num1)}\")\nprint(f\"Сумма цифр числа, делящихся на 3: {sum_of_digits(num2)}\")\nprint(f\"Делитель: {specific_devider(num3)}\")",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "num2 = int(input(\"Введите число для суммы цифр, делящихся на 3: \"))\nnum3 = int(input(\"Введите число для поиска специального делителя: \"))\n# Вывод результатов\nprint(f\"Количество взаимно простых чисел: {count_of_deviders(num1)}\")\nprint(f\"Сумма цифр числа, делящихся на 3: {sum_of_digits(num2)}\")\nprint(f\"Делитель: {specific_devider(num3)}\")",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "num3",
+        "kind": 5,
+        "importPath": "lab1.task1",
+        "description": "lab1.task1",
+        "peekOfCode": "num3 = int(input(\"Введите число для поиска специального делителя: \"))\n# Вывод результатов\nprint(f\"Количество взаимно простых чисел: {count_of_deviders(num1)}\")\nprint(f\"Сумма цифр числа, делящихся на 3: {sum_of_digits(num2)}\")\nprint(f\"Делитель: {specific_devider(num3)}\")",
+        "detail": "lab1.task1",
+        "documentation": {}
+    },
+    {
+        "label": "read_and_sort_by_word_count",
+        "kind": 2,
+        "importPath": "lab1.task10",
+        "description": "lab1.task10",
+        "peekOfCode": "def read_and_sort_by_word_count():\n    # Считываем количество строк\n    n = int(input(\"Введите количество строк: \"))\n    # Чтение списка строк\n    strings = []\n    for i in range(n):\n        string = input(f\"Введите строку {i+1}: \")\n        strings.append(string)\n    # Сортировка списка по количеству слов в строке\n    sorted_strings = sorted(strings, key=lambda str: len(str.split()))",
+        "detail": "lab1.task10",
+        "documentation": {}
+    },
+    {
+        "label": "diff_most_frequent_to_alphabet_frequency",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def diff_most_frequent_to_alphabet_frequency(s):\n    # Подсчитываем частоты символов\n    counts = Counter(s.lower())\n    most_frequent_char, most_frequent_count = counts.most_common(1)[0]\n    # Вычисляем частоту появления символа в строке\n    most_frequent_char_frequency = most_frequent_count / len(s)\n    # Извлекаем частоту символа из алфавита\n    alphabet_freq = alphabet_frequency.get(most_frequent_char, 0)\n    # Разница частот\n    return abs(most_frequent_char_frequency - alphabet_freq)",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "variance_of_frequency",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def variance_of_frequency(s):\n    counts = Counter(s.lower())\n    most_frequent_char, most_frequent_count = counts.most_common(1)[0]\n    most_frequent_char_frequency = most_frequent_count / len(s)\n    alphabet_freq = alphabet_frequency.get(most_frequent_char, 0)\n    # Квадратичное отклонение\n    return (most_frequent_char_frequency - alphabet_freq) ** 2\ndef variance_of_ascii_pairs(s):\n    s = s.strip()\n    max_ascii = max(map(ord, s))",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "variance_of_ascii_pairs",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def variance_of_ascii_pairs(s):\n    s = s.strip()\n    max_ascii = max(map(ord, s))\n    n = len(s)\n    differences = []\n    for i in range(n // 2):\n        left = ord(s[i])\n        right = ord(s[n - i - 1])\n        differences.append(abs(left - right))\n    if differences:",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "max_ascii_triplet_variance",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def max_ascii_triplet_variance(s):\n    n = len(s)\n    if n < 3:\n        return float('inf')\n    triplet_averages = []\n    for i in range(n - 2):\n        triplet = s[i:i+3]\n        avg = sum(map(ord, triplet)) / 3\n        triplet_averages.append(avg)\n    if triplet_averages:",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "task_3",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def task_3(strings):\n    return sorted(strings, key=diff_most_frequent_to_alphabet_frequency)\n# Задача #5\ndef task_5(strings):\n    return sorted(strings, key=variance_of_frequency)\n# Задача #9\ndef task_9(strings):\n    return sorted(strings, key=variance_of_ascii_pairs)\n# Задача #11\ndef task_11(strings):    ",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "task_5",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def task_5(strings):\n    return sorted(strings, key=variance_of_frequency)\n# Задача #9\ndef task_9(strings):\n    return sorted(strings, key=variance_of_ascii_pairs)\n# Задача #11\ndef task_11(strings):    \n    return sorted(strings, key=max_ascii_triplet_variance)\n# Пример использования\nstrings = [",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "task_9",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def task_9(strings):\n    return sorted(strings, key=variance_of_ascii_pairs)\n# Задача #11\ndef task_11(strings):    \n    return sorted(strings, key=max_ascii_triplet_variance)\n# Пример использования\nstrings = [\n    \"hello\", \"jj9f8938h8hb\", \"test\", \"some random text\", \"a b c d e f g h\"\n]\n# Выбор задачи",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "task_11",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def task_11(strings):    \n    return sorted(strings, key=max_ascii_triplet_variance)\n# Пример использования\nstrings = [\n    \"hello\", \"jj9f8938h8hb\", \"test\", \"some random text\", \"a b c d e f g h\"\n]\n# Выбор задачи\ndef choose_task():\n    print(\"Выберите задачу:\")\n    print(\"1. Упорядочить по увеличению разницы частоты самого частого символа и частоты его в алфавите (Задача #3)\")",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "choose_task",
+        "kind": 2,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "def choose_task():\n    print(\"Выберите задачу:\")\n    print(\"1. Упорядочить по увеличению разницы частоты самого частого символа и частоты его в алфавите (Задача #3)\")\n    print(\"2. Упорядочить по увеличению квадратичного отклонения частоты самого частого символа (Задача #5)\")\n    print(\"3. Упорядочить по увеличению квадратичного отклонения ASCII-кодов зеркальных символов (Задача #9)\")\n    print(\"4. Упорядочить по квадратичному отклонению дисперсии ASCII-кодов троек (Задача #11)\")\n    choice = input(\"Введите номер задачи (1, 2, 3, или 4): \")\n    if choice == '1':\n        result = task_3(strings)\n    elif choice == '2':",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "alphabet_frequency",
+        "kind": 5,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "alphabet_frequency = {\n    'a': 0.08167, 'b': 0.01492, 'c': 0.02782, 'd': 0.04253, 'e': 0.12702,\n    'f': 0.02228, 'g': 0.02015, 'h': 0.06094, 'i': 0.06966, 'j': 0.00153,\n    'k': 0.00772, 'l': 0.04025, 'm': 0.02406, 'n': 0.06749, 'o': 0.07507,\n    'p': 0.01929, 'q': 0.00095, 'r': 0.05987, 's': 0.06327, 't': 0.09056,\n    'u': 0.02758, 'v': 0.00978, 'w': 0.02360, 'x': 0.00150, 'y': 0.01974,\n    'z': 0.00074\n}\ndef diff_most_frequent_to_alphabet_frequency(s):\n    # Подсчитываем частоты символов",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "strings",
+        "kind": 5,
+        "importPath": "lab1.task11-14",
+        "description": "lab1.task11-14",
+        "peekOfCode": "strings = [\n    \"hello\", \"jj9f8938h8hb\", \"test\", \"some random text\", \"a b c d e f g h\"\n]\n# Выбор задачи\ndef choose_task():\n    print(\"Выберите задачу:\")\n    print(\"1. Упорядочить по увеличению разницы частоты самого частого символа и частоты его в алфавите (Задача #3)\")\n    print(\"2. Упорядочить по увеличению квадратичного отклонения частоты самого частого символа (Задача #5)\")\n    print(\"3. Упорядочить по увеличению квадратичного отклонения ASCII-кодов зеркальных символов (Задача #9)\")\n    print(\"4. Упорядочить по квадратичному отклонению дисперсии ASCII-кодов троек (Задача #11)\")",
+        "detail": "lab1.task11-14",
+        "documentation": {}
+    },
+    {
+        "label": "find_elements_before_last_min",
+        "kind": 2,
+        "importPath": "lab1.task15-19",
+        "description": "lab1.task15-19",
+        "peekOfCode": "def find_elements_before_last_min(arr):\n    #Находит элементы, расположенные перед последним минимальным\n    min_element = min(arr)\n    last_min_index = len(arr) - 1 - arr[::-1].index(min_element)\n    return arr[:last_min_index]\ndef find_elements_after_first_max(arr):\n    #Находит элементы, расположенные после первого максимального\n    max_element = max(arr)\n    first_max_index = arr.index(max_element)\n    return arr[first_max_index + 1:]",
+        "detail": "lab1.task15-19",
+        "documentation": {}
+    },
+    {
+        "label": "find_elements_after_first_max",
+        "kind": 2,
+        "importPath": "lab1.task15-19",
+        "description": "lab1.task15-19",
+        "peekOfCode": "def find_elements_after_first_max(arr):\n    #Находит элементы, расположенные после первого максимального\n    max_element = max(arr)\n    first_max_index = arr.index(max_element)\n    return arr[first_max_index + 1:]\ndef check_alternating_signs(arr):\n    #Проверяет, чередуются ли положительные и отрицательные числа\n    for i in range(1, len(arr)):\n        if arr[i] * arr[i - 1] >= 0:\n            return False",
+        "detail": "lab1.task15-19",
+        "documentation": {}
+    },
+    {
+        "label": "check_alternating_signs",
+        "kind": 2,
+        "importPath": "lab1.task15-19",
+        "description": "lab1.task15-19",
+        "peekOfCode": "def check_alternating_signs(arr):\n    #Проверяет, чередуются ли положительные и отрицательные числа\n    for i in range(1, len(arr)):\n        if arr[i] * arr[i - 1] >= 0:\n            return False\n    return True\ndef sum_elements_in_interval(arr, a, b):\n    #Находит сумму элементов, значения которых попадают в интервал a..b\n    return sum(x for x in arr if a < x < b)\ndef count_elements_greater_than_previous_sum(arr):",
+        "detail": "lab1.task15-19",
+        "documentation": {}
+    },
+    {
+        "label": "sum_elements_in_interval",
+        "kind": 2,
+        "importPath": "lab1.task15-19",
+        "description": "lab1.task15-19",
+        "peekOfCode": "def sum_elements_in_interval(arr, a, b):\n    #Находит сумму элементов, значения которых попадают в интервал a..b\n    return sum(x for x in arr if a < x < b)\ndef count_elements_greater_than_previous_sum(arr):\n    #Находит количество элементов, которые больше суммы всех предыдущих\n    count = 0\n    total_sum = 0\n    for num in arr:\n        if num > total_sum:\n            count += 1",
+        "detail": "lab1.task15-19",
+        "documentation": {}
+    },
+    {
+        "label": "count_elements_greater_than_previous_sum",
+        "kind": 2,
+        "importPath": "lab1.task15-19",
+        "description": "lab1.task15-19",
+        "peekOfCode": "def count_elements_greater_than_previous_sum(arr):\n    #Находит количество элементов, которые больше суммы всех предыдущих\n    count = 0\n    total_sum = 0\n    for num in arr:\n        if num > total_sum:\n            count += 1\n        total_sum += num\n    return count\ndef choose_task():",
+        "detail": "lab1.task15-19",
+        "documentation": {}
+    },
+    {
+        "label": "choose_task",
+        "kind": 2,
+        "importPath": "lab1.task15-19",
+        "description": "lab1.task15-19",
+        "peekOfCode": "def choose_task():\n    #Предлагает пользователю выбрать задачу для решения\n    print(\"Выберите задачу для решения:\")\n    print(\"1 - Найти элементы, расположенные перед последним минимальным\")\n    print(\"2 - Найти элементы, расположенные после первого максимального\")\n    print(\"3 - Проверить, чередуются ли положительные и отрицательные числа\")\n    print(\"4 - Найти сумму элементов в интервале a..b\")\n    print(\"5 - Найти количество элементов, которые больше, чем сумма всех предыдущих\")\n    choice = int(input(\"Введите номер задачи: \"))\n    if choice in [1, 2, 3, 4, 5]:",
+        "detail": "lab1.task15-19",
+        "documentation": {}
+    },
+    {
+        "label": "shuffle_string",
+        "kind": 2,
+        "importPath": "lab1.task2-4",
+        "description": "lab1.task2-4",
+        "peekOfCode": "def shuffle_string(string):\n    words = string.split()\n    random.shuffle(words)\n    return ' '.join(words)\ndef count_even_words(string):\n    count = 0\n    words = string.split()\n    for word in words:\n        if len(word) % 2 == 0:\n            count += 1",
+        "detail": "lab1.task2-4",
+        "documentation": {}
+    },
+    {
+        "label": "count_even_words",
+        "kind": 2,
+        "importPath": "lab1.task2-4",
+        "description": "lab1.task2-4",
+        "peekOfCode": "def count_even_words(string):\n    count = 0\n    words = string.split()\n    for word in words:\n        if len(word) % 2 == 0:\n            count += 1\n    return count\ndef russian_flag(mas):\n    white = mas.index('Белый')\n    blue = mas.index('Синий')",
+        "detail": "lab1.task2-4",
+        "documentation": {}
+    },
+    {
+        "label": "russian_flag",
+        "kind": 2,
+        "importPath": "lab1.task2-4",
+        "description": "lab1.task2-4",
+        "peekOfCode": "def russian_flag(mas):\n    white = mas.index('Белый')\n    blue = mas.index('Синий')\n    red = mas.index('Красный')\n    new_mas = [mas[white], mas[blue], mas[red]]\n    return new_mas\ndef choose_task():\n    print(\"Выберите задачу:\")\n    print(\"1. Перемешать слова в строке\")\n    print(\"2. Подсчитать количество слов с четным количеством букв\")",
+        "detail": "lab1.task2-4",
+        "documentation": {}
+    },
+    {
+        "label": "choose_task",
+        "kind": 2,
+        "importPath": "lab1.task2-4",
+        "description": "lab1.task2-4",
+        "peekOfCode": "def choose_task():\n    print(\"Выберите задачу:\")\n    print(\"1. Перемешать слова в строке\")\n    print(\"2. Подсчитать количество слов с четным количеством букв\")\n    print(\"3. Функция 'Флаг России'\")\n    choice = input(\"Введите номер задачи (1, 2, или 3): \")\n    if choice == '1':\n        string = input(\"Введите строку для перемешивания: \")\n        print(\"Результат:\", shuffle_string(string))\n    elif choice == '2':",
+        "detail": "lab1.task2-4",
+        "documentation": {}
+    },
+    {
+        "label": "find_dates",
+        "kind": 2,
+        "importPath": "lab1.task5",
+        "description": "lab1.task5",
+        "peekOfCode": "def find_dates(string):\n    # Шаблон для поиска дат в нужном формате\n    pattern = r'\\b\\d{1,2} (?:января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря) \\d{4}\\b'\n    dates = re.findall(pattern, string)\n    return dates\n# Пример строки\nstring = \"События происходили 22 февраля 2022, а также 24 февраля 2022 и 21 марта 2014.\"\n# Поиск всех дат\nfound_dates = find_dates(string)\nprint(\"Найденные даты:\", found_dates)",
+        "detail": "lab1.task5",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 5,
+        "importPath": "lab1.task5",
+        "description": "lab1.task5",
+        "peekOfCode": "string = \"События происходили 22 февраля 2022, а также 24 февраля 2022 и 21 марта 2014.\"\n# Поиск всех дат\nfound_dates = find_dates(string)\nprint(\"Найденные даты:\", found_dates)",
+        "detail": "lab1.task5",
+        "documentation": {}
+    },
+    {
+        "label": "found_dates",
+        "kind": 5,
+        "importPath": "lab1.task5",
+        "description": "lab1.task5",
+        "peekOfCode": "found_dates = find_dates(string)\nprint(\"Найденные даты:\", found_dates)",
+        "detail": "lab1.task5",
+        "documentation": {}
+    },
+    {
+        "label": "count_russian_letters",
+        "kind": 2,
+        "importPath": "lab1.task6-8",
+        "description": "lab1.task6-8",
+        "peekOfCode": "def count_russian_letters(string):\n    russian_letters = re.findall(r'[А-Яа-я]', string)\n    return len(russian_letters)\n# Задача #8: Найти количество латинских символов\ndef count_latin_letters(string):\n    latin_letters = re.findall(r'[A-Za-z]', string)\n    return len(latin_letters)\n# Задача #16: Найти минимальное целое число\ndef find_min_integer(string):\n    numbers = re.findall(r'-?\\d+', string)  # Находим все числа, включая отрицательные",
+        "detail": "lab1.task6-8",
+        "documentation": {}
+    },
+    {
+        "label": "count_latin_letters",
+        "kind": 2,
+        "importPath": "lab1.task6-8",
+        "description": "lab1.task6-8",
+        "peekOfCode": "def count_latin_letters(string):\n    latin_letters = re.findall(r'[A-Za-z]', string)\n    return len(latin_letters)\n# Задача #16: Найти минимальное целое число\ndef find_min_integer(string):\n    numbers = re.findall(r'-?\\d+', string)  # Находим все числа, включая отрицательные\n    if numbers:\n        min_number = min(map(int, numbers))  # Преобразуем строки в числа и ищем минимум\n        return min_number\n    else:",
+        "detail": "lab1.task6-8",
+        "documentation": {}
+    },
+    {
+        "label": "find_min_integer",
+        "kind": 2,
+        "importPath": "lab1.task6-8",
+        "description": "lab1.task6-8",
+        "peekOfCode": "def find_min_integer(string):\n    numbers = re.findall(r'-?\\d+', string)  # Находим все числа, включая отрицательные\n    if numbers:\n        min_number = min(map(int, numbers))  # Преобразуем строки в числа и ищем минимум\n        return min_number\n    else:\n        return \"Нет целых чисел\"\n# Функция для выбора задачи\ndef choose_task():\n    print(\"Выберите задачу:\")",
+        "detail": "lab1.task6-8",
+        "documentation": {}
+    },
+    {
+        "label": "choose_task",
+        "kind": 2,
+        "importPath": "lab1.task6-8",
+        "description": "lab1.task6-8",
+        "peekOfCode": "def choose_task():\n    print(\"Выберите задачу:\")\n    print(\"1. Найти количество русских символов в строке\")\n    print(\"2. Найти количество латинских символов в строке\")\n    print(\"3. Найти минимальное из имеющихся в строке целых чисел\")\n    choice = input(\"Введите номер задачи (1, 2, или 3): \")\n    if choice == '1':\n        string = input(\"Введите строку: \")\n        print(\"Количество русских символов:\", count_russian_letters(string))\n    elif choice == '2':",
+        "detail": "lab1.task6-8",
+        "documentation": {}
+    },
+    {
+        "label": "read_and_sort_strings",
+        "kind": 2,
+        "importPath": "lab1.task9",
+        "description": "lab1.task9",
+        "peekOfCode": "def read_and_sort_strings():\n    # Считываем количество строк\n    n = int(input(\"Введите количество строк: \"))\n    # Чтение списка строк\n    strings = []\n    for i in range(n):\n        string = input(f\"Введите строку {i+1}: \")\n        strings.append(string)\n    # Сортировка списка по длине строки\n    sorted_strings = sorted(strings, key=len)",
+        "detail": "lab1.task9",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "lab2.count_of_eq",
+        "description": "lab2.count_of_eq",
+        "peekOfCode": "list1 = {1, 2, 3, 4, 5}\nlist2 = {4, 5, 6, 7, 8}\nprint(len(set(list1) & set(list2)))",
+        "detail": "lab2.count_of_eq",
+        "documentation": {}
+    },
+    {
+        "label": "list2",
+        "kind": 5,
+        "importPath": "lab2.count_of_eq",
+        "description": "lab2.count_of_eq",
+        "peekOfCode": "list2 = {4, 5, 6, 7, 8}\nprint(len(set(list1) & set(list2)))",
+        "detail": "lab2.count_of_eq",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "lab2.syno",
+        "description": "lab2.syno",
+        "peekOfCode": "n = int(input())\nsynonyms = {}\nfor _ in range(n):\n    word1, word2 = input().split()\n    synonyms[word1] = word2\n    synonyms[word2] = word1\nquery_word = input()\nprint(synonyms[query_word])",
+        "detail": "lab2.syno",
+        "documentation": {}
+    },
+    {
+        "label": "synonyms",
+        "kind": 5,
+        "importPath": "lab2.syno",
+        "description": "lab2.syno",
+        "peekOfCode": "synonyms = {}\nfor _ in range(n):\n    word1, word2 = input().split()\n    synonyms[word1] = word2\n    synonyms[word2] = word1\nquery_word = input()\nprint(synonyms[query_word])",
+        "detail": "lab2.syno",
+        "documentation": {}
+    },
+    {
+        "label": "query_word",
+        "kind": 5,
+        "importPath": "lab2.syno",
+        "description": "lab2.syno",
+        "peekOfCode": "query_word = input()\nprint(synonyms[query_word])",
+        "detail": "lab2.syno",
+        "documentation": {}
+    },
+    {
+        "label": "count_pairs",
+        "kind": 2,
+        "importPath": "lab3.task1.calc",
+        "description": "lab3.task1.calc",
+        "peekOfCode": "def count_pairs(filename):\n    with open(filename, 'r') as file:\n        lines = file.readlines()\n    N, K = map(int, lines[0].split())\n    ratings = list(map(int, lines[1:]))\n    ratings.sort()\n    count = 0\n    left = 0\n    right = N - 1\n    while left < right:",
+        "detail": "lab3.task1.calc",
+        "documentation": {}
+    },
+    {
+        "label": "result_A",
+        "kind": 5,
+        "importPath": "lab3.task1.calc",
+        "description": "lab3.task1.calc",
+        "peekOfCode": "result_A = count_pairs('numbers.txt')\nprint(result_A)",
+        "detail": "lab3.task1.calc",
+        "documentation": {}
+    },
+    {
+        "label": "N",
+        "kind": 5,
+        "importPath": "lab3.task2.product",
+        "description": "lab3.task2.product",
+        "peekOfCode": "N = 10\nwith open(\"numbers.txt\", \"w\") as file1:\n    numbers = [random.randint(1, 100) for _ in range(N)]\n    file1.write(\" \".join(map(str, numbers)))\nwith open(\"products.txt\", \"w\") as file2:\n    product = 1\n    products = []\n    for number in numbers:\n        product *= number\n        products.append(product)",
+        "detail": "lab3.task2.product",
+        "documentation": {}
+    },
+    {
+        "label": "cost_per_day",
+        "kind": 5,
+        "importPath": "lab3.task3.calc",
+        "description": "lab3.task3.calc",
+        "peekOfCode": "cost_per_day = [float('inf')] * (n + 1)\nfor day in range(1, n + 1):\n    available_plans = [(c, p) for l, r, c, p in plans if l <= day <= r]\n    available_plans.sort(key=lambda x: x[1])\n    cores_needed = k\n    day_cost = 0\n    for cores, price in available_plans:\n        if cores_needed <= 0:\n            break\n        cores_to_rent = min(cores_needed, cores)",
+        "detail": "lab3.task3.calc",
+        "documentation": {}
+    },
+    {
+        "label": "is_valid_ipv4",
+        "kind": 2,
+        "importPath": "lab4.task1",
+        "description": "lab4.task1",
+        "peekOfCode": "def is_valid_ipv4(ip):\n    pattern = re.compile(r'^(\\d{1,3}\\.){3}\\d{1,3}$')\n    if pattern.match(ip):\n        parts = ip.split('.')\n        for part in parts:\n            if int(part) < 0 or int(part) > 255:\n                return False\n        return True\n    return False\ndef validate_ipv4(ip):",
+        "detail": "lab4.task1",
+        "documentation": {}
+    },
+    {
+        "label": "validate_ipv4",
+        "kind": 2,
+        "importPath": "lab4.task1",
+        "description": "lab4.task1",
+        "peekOfCode": "def validate_ipv4(ip):\n    if not is_valid_ipv4(ip):\n        raise ValueError(\"Некорректный IPv4 адрес\")\n    return ip\nprint(is_valid_ipv4(\"192.168.1.1\")) \nprint(is_valid_ipv4(\"256.256.256.256\"))\nprint(validate_ipv4(\"192.168.1.1\"))\nprint(validate_ipv4(\"256.256.256.256\"))",
+        "detail": "lab4.task1",
+        "documentation": {}
+    },
+    {
+        "label": "form",
+        "kind": 5,
+        "importPath": "lab6.cgi_server",
+        "description": "lab6.cgi_server",
+        "peekOfCode": "form = cgi.FieldStorage()\naction = form.getvalue(\"action\", \"\")\nif action == \"export\":\n    table = form.getvalue(\"table\")\n    fmt = form.getvalue(\"format\", \"json\")\n    if table == \"artist\":\n        data = session.query(Artist).all()\n    elif table == \"album\":\n        data = session.query(Album).all()\n    elif table == \"song\":",
+        "detail": "lab6.cgi_server",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "kind": 5,
+        "importPath": "lab6.cgi_server",
+        "description": "lab6.cgi_server",
+        "peekOfCode": "action = form.getvalue(\"action\", \"\")\nif action == \"export\":\n    table = form.getvalue(\"table\")\n    fmt = form.getvalue(\"format\", \"json\")\n    if table == \"artist\":\n        data = session.query(Artist).all()\n    elif table == \"album\":\n        data = session.query(Album).all()\n    elif table == \"song\":\n        data = session.query(Song).all()",
+        "detail": "lab6.cgi_server",
+        "documentation": {}
+    },
+    {
+        "label": "Artist",
+        "kind": 6,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "class Artist(Base):\n    __tablename__ = 'artist'\n    artist_id = Column(Integer, primary_key=True, autoincrement=True)\n    name = Column(String, nullable=False)\n    genre = Column(String, nullable=False)\n    birth_date = Column(Date, nullable=False)\n    albums = relationship(\"Album\", back_populates=\"artist\")\n    def __repr__(self):\n        return f\"<Artist(name='{self.name}', genre='{self.genre}', birth_date='{self.birth_date}')>\"\nclass Album(Base):",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "kind": 6,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "class Album(Base):\n    __tablename__ = 'album'\n    album_id = Column(Integer, primary_key=True, autoincrement=True)\n    title = Column(String, nullable=False)\n    release_date = Column(Date, nullable=False)\n    artist_id = Column(Integer, ForeignKey('artist.artist_id'), nullable=False)\n    artist = relationship(\"Artist\", back_populates=\"albums\")\n    songs = relationship(\"Song\", back_populates=\"album\")\n    def __repr__(self):\n        return f\"<Album(title='{self.title}', release_date='{self.release_date}')>\"",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "Song",
+        "kind": 6,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "class Song(Base):\n    __tablename__ = 'song'\n    song_id = Column(Integer, primary_key=True, autoincrement=True)\n    title = Column(String, nullable=False)\n    duration = Column(Integer, nullable=False)\n    album_id = Column(Integer, ForeignKey('album.album_id'), nullable=False)\n    album = relationship(\"Album\", back_populates=\"songs\")\n    def __repr__(self):\n        return f\"<Song(title='{self.title}', duration={self.duration})>\"\nDATABASE_URL = \"sqlite:///music.db\"  ",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_artist",
+        "kind": 2,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "def add_artist(name, genre, birth_date):\n    artist = Artist(name=name, genre=genre, birth_date=birth_date)\n    session.add(artist)\n    session.commit()\n    return artist\ndef get_all_artists():\n    return session.query(Artist).all()\ndef add_album(title, release_date, artist_id):\n    album = Album(title=title, release_date=release_date, artist_id=artist_id)\n    session.add(album)",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_artists",
+        "kind": 2,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "def get_all_artists():\n    return session.query(Artist).all()\ndef add_album(title, release_date, artist_id):\n    album = Album(title=title, release_date=release_date, artist_id=artist_id)\n    session.add(album)\n    session.commit()\n    return album\ndef get_albums_by_artist(artist_id):\n    return session.query(Album).filter_by(artist_id=artist_id).all()\ndef add_song(title, duration, album_id):",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_album",
+        "kind": 2,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "def add_album(title, release_date, artist_id):\n    album = Album(title=title, release_date=release_date, artist_id=artist_id)\n    session.add(album)\n    session.commit()\n    return album\ndef get_albums_by_artist(artist_id):\n    return session.query(Album).filter_by(artist_id=artist_id).all()\ndef add_song(title, duration, album_id):\n    song = Song(title=title, duration=duration, album_id=album_id)\n    session.add(song)",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_albums_by_artist",
+        "kind": 2,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "def get_albums_by_artist(artist_id):\n    return session.query(Album).filter_by(artist_id=artist_id).all()\ndef add_song(title, duration, album_id):\n    song = Song(title=title, duration=duration, album_id=album_id)\n    session.add(song)\n    session.commit()\n    return song\ndef get_songs_by_album(album_id):\n    return session.query(Song).filter_by(album_id=album_id).all()\ndef get_artist_with_albums_and_songs(artist_id):",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "add_song",
+        "kind": 2,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "def add_song(title, duration, album_id):\n    song = Song(title=title, duration=duration, album_id=album_id)\n    session.add(song)\n    session.commit()\n    return song\ndef get_songs_by_album(album_id):\n    return session.query(Song).filter_by(album_id=album_id).all()\ndef get_artist_with_albums_and_songs(artist_id):\n    artist = session.query(Artist).filter_by(artist_id=artist_id).first()\n    if artist:",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_songs_by_album",
+        "kind": 2,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "def get_songs_by_album(album_id):\n    return session.query(Song).filter_by(album_id=album_id).all()\ndef get_artist_with_albums_and_songs(artist_id):\n    artist = session.query(Artist).filter_by(artist_id=artist_id).first()\n    if artist:\n        return {\n            \"artist\": artist,\n            \"albums\": [\n                {\n                    \"album\": album,",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "get_artist_with_albums_and_songs",
+        "kind": 2,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "def get_artist_with_albums_and_songs(artist_id):\n    artist = session.query(Artist).filter_by(artist_id=artist_id).first()\n    if artist:\n        return {\n            \"artist\": artist,\n            \"albums\": [\n                {\n                    \"album\": album,\n                    \"songs\": album.songs\n                } for album in artist.albums",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "Base = declarative_base()\nclass Artist(Base):\n    __tablename__ = 'artist'\n    artist_id = Column(Integer, primary_key=True, autoincrement=True)\n    name = Column(String, nullable=False)\n    genre = Column(String, nullable=False)\n    birth_date = Column(Date, nullable=False)\n    albums = relationship(\"Album\", back_populates=\"artist\")\n    def __repr__(self):\n        return f\"<Artist(name='{self.name}', genre='{self.genre}', birth_date='{self.birth_date}')>\"",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "DATABASE_URL = \"sqlite:///music.db\"  \nengine = create_engine(DATABASE_URL)\nSession = sessionmaker(bind=engine)\nsession = Session()\nBase.metadata.create_all(engine)\ndef add_artist(name, genre, birth_date):\n    artist = Artist(name=name, genre=genre, birth_date=birth_date)\n    session.add(artist)\n    session.commit()\n    return artist",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSession = sessionmaker(bind=engine)\nsession = Session()\nBase.metadata.create_all(engine)\ndef add_artist(name, genre, birth_date):\n    artist = Artist(name=name, genre=genre, birth_date=birth_date)\n    session.add(artist)\n    session.commit()\n    return artist\ndef get_all_artists():",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "kind": 5,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "Session = sessionmaker(bind=engine)\nsession = Session()\nBase.metadata.create_all(engine)\ndef add_artist(name, genre, birth_date):\n    artist = Artist(name=name, genre=genre, birth_date=birth_date)\n    session.add(artist)\n    session.commit()\n    return artist\ndef get_all_artists():\n    return session.query(Artist).all()",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "lab6.domain",
+        "description": "lab6.domain",
+        "peekOfCode": "session = Session()\nBase.metadata.create_all(engine)\ndef add_artist(name, genre, birth_date):\n    artist = Artist(name=name, genre=genre, birth_date=birth_date)\n    session.add(artist)\n    session.commit()\n    return artist\ndef get_all_artists():\n    return session.query(Artist).all()\ndef add_album(title, release_date, artist_id):",
+        "detail": "lab6.domain",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "lab6.main",
+        "description": "lab6.main",
+        "peekOfCode": "def main():\n    # Преобразуем строки в даты\n    artist_birth_date = datetime.strptime(\"1990-01-01\", \"%Y-%m-%d\").date()\n    album_release_date = datetime.strptime(\"2010-05-20\", \"%Y-%m-%d\").date()\n    # Добавление данных\n    print(\"Добавление артиста...\")\n    artist = add_artist(name=\"John Doe\", genre=\"Rock\", birth_date=artist_birth_date)\n    print(\"Добавлен артист:\", artist)\n    print(\"\\nДобавление альбома...\")\n    album = add_album(title=\"First Album\", release_date=album_release_date, artist_id=artist.artist_id)",
+        "detail": "lab6.main",
+        "documentation": {}
+    },
+    {
+        "label": "task1",
+        "kind": 2,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "def task1(v: float, t: int) -> float:\n    return v * t % ROAD_LEN\n# В некоторой школе решили набрать три новых математических класса и оборудовать кабинеты для них новыми партами. За каждой партой может сидеть два учащихся. Известно количество учащихся в каждом из трех классов. Выведите наименьшее число парт, которое нужно приобрести для них.\n# Программа получает на вход три натуральных числа: количество учащихся в каждом из трех классов.\ndef task2(class1: int, class2: int, class3: int) -> int:\n    return class1//2 + class1 % 2 + class2//2 + class2 % 2 + class3//2 + class3 % 2\n# За день машина проезжает n километров. Сколько дней нужно, чтобы проехать маршрут длиной m километров?\ndef task3(n: int, m: int) -> int:\n    return m // n + (m % n != 0)\n# n человек разбили на m команд так, что в каждой команде есть хотя бы один человек. Все члены каждой команды обменялись рукопожатиями. Посчитайте минимальное и максимальное число возможных рукопожатий.",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "task2",
+        "kind": 2,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "def task2(class1: int, class2: int, class3: int) -> int:\n    return class1//2 + class1 % 2 + class2//2 + class2 % 2 + class3//2 + class3 % 2\n# За день машина проезжает n километров. Сколько дней нужно, чтобы проехать маршрут длиной m километров?\ndef task3(n: int, m: int) -> int:\n    return m // n + (m % n != 0)\n# n человек разбили на m команд так, что в каждой команде есть хотя бы один человек. Все члены каждой команды обменялись рукопожатиями. Посчитайте минимальное и максимальное число возможных рукопожатий.\n# Программа получает на вход целые числа n(m % n != 0) и m, 1≤m≤n≤100, каждое в отдельной строке, и должна вывести два числа — минимальное и максимальное число рукопожатий.\n# def task4(n: int, m: int) -> tuple:\n    # HZ\n# n школьников делят k яблок «почти поровну», то есть так, чтобы количество яблок, доставшихся любым двум школьникам, отличалось бы не более, чем на 1. Программа получает на вход натуральное число n и целое неотрицательное число k, каждое в отдельной строке, и должна вывести количество школьников, которым достанется яблок меньше, чем некоторым из их товарищей.",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "task3",
+        "kind": 2,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "def task3(n: int, m: int) -> int:\n    return m // n + (m % n != 0)\n# n человек разбили на m команд так, что в каждой команде есть хотя бы один человек. Все члены каждой команды обменялись рукопожатиями. Посчитайте минимальное и максимальное число возможных рукопожатий.\n# Программа получает на вход целые числа n(m % n != 0) и m, 1≤m≤n≤100, каждое в отдельной строке, и должна вывести два числа — минимальное и максимальное число рукопожатий.\n# def task4(n: int, m: int) -> tuple:\n    # HZ\n# n школьников делят k яблок «почти поровну», то есть так, чтобы количество яблок, доставшихся любым двум школьникам, отличалось бы не более, чем на 1. Программа получает на вход натуральное число n и целое неотрицательное число k, каждое в отдельной строке, и должна вывести количество школьников, которым достанется яблок меньше, чем некоторым из их товарищей.\ndef task5(n: int, k: int) -> int:\n    return n-k % n\n# Дано целое число n. Выведите следующее за ним чётное число.",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "task5",
+        "kind": 2,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "def task5(n: int, k: int) -> int:\n    return n-k % n\n# Дано целое число n. Выведите следующее за ним чётное число.\ndef task6(n: int) -> int:\n    return n + 2 - n % 2\n# Бригада скорой помощи выехала по вызову в один из отделенных районов. К сожалению, когда диспетчер получил вызов, он успел записать только адрес дома и номер квартиры K1, а затем связь прервалась. Однако он вспомнил, что по этому же адресу дома некоторое время назад скорая помощь выезжала в квартиру K2, которая расположена в подъезде P2 на этаже N2. Известно, что в доме M этажей и количество квартир на каждой лестничной площадке одинаково. Напишите программу, которая вычисляет номер подъезда P1 и номер этажа N1 квартиры K1.\n# Программа получает на вход пять положительных целых чисел K1, M, K2, P2, N2. Все числа не превосходят 1000.\n# Выведите два числа P1 и N1. Если входные данные не позволяют однозначно определить P1 или N1, вместо соответствующего числа напечатайте 0. Если входные данные противоречивы, напечатайте два числа –1 (минус один).\n# def task8(k1: int, k2: int, p2: int, n2: int, m: int) -> tuple: \n# Сколько разрезов нужно сделать, чтобы разрезать круглый торт на N одинаковых по форме и размеру кусков?",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "task6",
+        "kind": 2,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "def task6(n: int) -> int:\n    return n + 2 - n % 2\n# Бригада скорой помощи выехала по вызову в один из отделенных районов. К сожалению, когда диспетчер получил вызов, он успел записать только адрес дома и номер квартиры K1, а затем связь прервалась. Однако он вспомнил, что по этому же адресу дома некоторое время назад скорая помощь выезжала в квартиру K2, которая расположена в подъезде P2 на этаже N2. Известно, что в доме M этажей и количество квартир на каждой лестничной площадке одинаково. Напишите программу, которая вычисляет номер подъезда P1 и номер этажа N1 квартиры K1.\n# Программа получает на вход пять положительных целых чисел K1, M, K2, P2, N2. Все числа не превосходят 1000.\n# Выведите два числа P1 и N1. Если входные данные не позволяют однозначно определить P1 или N1, вместо соответствующего числа напечатайте 0. Если входные данные противоречивы, напечатайте два числа –1 (минус один).\n# def task8(k1: int, k2: int, p2: int, n2: int, m: int) -> tuple: \n# Сколько разрезов нужно сделать, чтобы разрезать круглый торт на N одинаковых по форме и размеру кусков?\ndef task9(n: int) -> int:\n    if n <= 1:\n        return 0",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "task9",
+        "kind": 2,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "def task9(n: int) -> int:\n    if n <= 1:\n        return 0\n    if n %2 == 0:\n        return n // 2\n    else:\n        return n\n# Яша плавал в бассейне размером N×M× метров и устал. В этот момент он обнаружил, что находится на расстоянии x метров от одного из длинных бортиков (не обязательно от ближайшего) и y метров от одного из коротких бортиков. Какое минимальное расстояние должен проплыть Яша, чтобы выбраться из бассейна на бортик? Обратите внимание, что изначально неизвестно, какой из бортиков (длиной N или M метров) является коротким.\ndef task10(n: int, m: int, x: int, y: int) -> int: \n    return min(x, y, n-x, m-y)",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "task10",
+        "kind": 2,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "def task10(n: int, m: int, x: int, y: int) -> int: \n    return min(x, y, n-x, m-y)",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "ROAD_LEN",
+        "kind": 5,
+        "importPath": "lab1",
+        "description": "lab1",
+        "peekOfCode": "ROAD_LEN = 109\ndef task1(v: float, t: int) -> float:\n    return v * t % ROAD_LEN\n# В некоторой школе решили набрать три новых математических класса и оборудовать кабинеты для них новыми партами. За каждой партой может сидеть два учащихся. Известно количество учащихся в каждом из трех классов. Выведите наименьшее число парт, которое нужно приобрести для них.\n# Программа получает на вход три натуральных числа: количество учащихся в каждом из трех классов.\ndef task2(class1: int, class2: int, class3: int) -> int:\n    return class1//2 + class1 % 2 + class2//2 + class2 % 2 + class3//2 + class3 % 2\n# За день машина проезжает n километров. Сколько дней нужно, чтобы проехать маршрут длиной m километров?\ndef task3(n: int, m: int) -> int:\n    return m // n + (m % n != 0)",
+        "detail": "lab1",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "lab2",
+        "description": "lab2",
+        "peekOfCode": "n = int(input(\"Введите число = \"))\nfactorial = 1\nsum = 0\nfor i in range(1, n + 1):\n    factorial *= i\n    sum += factorial",
+        "detail": "lab2",
+        "documentation": {}
+    },
+    {
+        "label": "factorial",
+        "kind": 5,
+        "importPath": "lab2",
+        "description": "lab2",
+        "peekOfCode": "factorial = 1\nsum = 0\nfor i in range(1, n + 1):\n    factorial *= i\n    sum += factorial",
+        "detail": "lab2",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "kind": 5,
+        "importPath": "lab2",
+        "description": "lab2",
+        "peekOfCode": "sum = 0\nfor i in range(1, n + 1):\n    factorial *= i\n    sum += factorial",
+        "detail": "lab2",
+        "documentation": {}
+    },
+    {
+        "label": "ShapeError",
+        "kind": 6,
+        "importPath": "oop",
+        "description": "oop",
+        "peekOfCode": "class ShapeError(Exception):\n    pass\nclass Shape:\n    def __init__(self, id, x, y):\n        self.id = id\n        if not isinstance(x, (int, float)) or not isinstance(y, (int, float)):\n            raise ShapeError(\"Координаты должны быть числами.\")\n        self.x = x\n        self.y = y\n    def move(self, dx, dy):",
+        "detail": "oop",
+        "documentation": {}
+    },
+    {
+        "label": "Shape",
+        "kind": 6,
+        "importPath": "oop",
+        "description": "oop",
+        "peekOfCode": "class Shape:\n    def __init__(self, id, x, y):\n        self.id = id\n        if not isinstance(x, (int, float)) or not isinstance(y, (int, float)):\n            raise ShapeError(\"Координаты должны быть числами.\")\n        self.x = x\n        self.y = y\n    def move(self, dx, dy):\n        if not isinstance(dx, (int, float)) or not isinstance(dy, (int, float)):\n            raise ShapeError(\"Смещение должно быть числом.\")",
+        "detail": "oop",
+        "documentation": {}
+    },
+    {
+        "label": "Quad",
+        "kind": 6,
+        "importPath": "oop",
+        "description": "oop",
+        "peekOfCode": "class Quad(Shape):\n    def __init__(self, id, x, y, side):\n        super().__init__(id, x, y)\n        if side <= 0:\n            raise ShapeError(\"Сторона квадрата должна быть положительным числом.\")\n        self.side = side\n    def bounding_box(self):\n        return (self.x, self.y, self.x + self.side, self.y + self.side)\nclass Pentagon(Shape):\n    def __init__(self, id, x, y, side):",
+        "detail": "oop",
+        "documentation": {}
+    },
+    {
+        "label": "Pentagon",
+        "kind": 6,
+        "importPath": "oop",
+        "description": "oop",
+        "peekOfCode": "class Pentagon(Shape):\n    def __init__(self, id, x, y, side):\n        super().__init__(id, x, y)\n        if side <= 0:\n            raise ShapeError(\"Сторона пятиугольника должна быть положительным числом.\")\n        self.side = side\n    def bounding_box(self):\n        side_to_height = self.side * (1 + math.sqrt(5))\n        return (self.x, self.y, self.x + self.side, self.y + side_to_height)\nif __name__ == \"__main__\":",
+        "detail": "oop",
+        "documentation": {}
+    }
+]
